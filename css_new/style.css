@@ -190,6 +190,11 @@ h1 {
     left: 10%
 }
 
+.cover_img{
+    position: absolute;
+    top: 20%;
+    left:10%;
+}
 .text {
     position: relative;
     display: block;
