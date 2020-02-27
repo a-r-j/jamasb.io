@@ -269,7 +269,7 @@ b {
     font-family: 'Roboto Mono', bold;
 }
 
-@media screen and (max-width:667px) {
+@media screen and (max-width:200px) {
     h1 {
         font-size: 68px;
         font-size: 18vw
