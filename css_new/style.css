@@ -132,7 +132,7 @@ html {
     -ms-user-select: none;
     user-select: none
 }
-h1, p {
+h1, p, td {
     color: #000
 }
 
@@ -263,6 +263,14 @@ h3 {
     margin-bottom: 5%
 }
 
+
+h4 {
+    font-size: 20px;
+    font-size: 1.7vw;
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 5%
+}
+
 p {
     font-size: 18px;
     font-size: 1.25vw;
@@ -271,6 +279,17 @@ p {
     margin-bottom: 6%;
     text-align: justify;
 }
+
+td {
+    font-size: 18px;
+    font-size: 1.25vw;
+    line-height: 180%;
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 6%;
+    text-align: justify;
+    padding:0 15px;
+}
+
 
 b {
     font-family: 'Roboto Mono', monospace;
