@@ -407,6 +407,10 @@ b {
     padding-top: 10%;
 }
 
+.experience {
+    padding-top: 10%;
+}
+
 /*Responsive*/
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait){
 #home-test .media {
